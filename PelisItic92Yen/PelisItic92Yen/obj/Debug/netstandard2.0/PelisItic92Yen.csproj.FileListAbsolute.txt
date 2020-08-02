@@ -1,0 +1,15 @@
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\bin\Debug\netstandard2.0\PelisItic92Yen.deps.json
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\bin\Debug\netstandard2.0\PelisItic92Yen.dll
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.csprojAssemblyReference.cache
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.AssemblyInfoInputs.cache
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.AssemblyInfo.cs
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\bin\Debug\netstandard2.0\ref\PelisItic92Yen.dll
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\bin\Debug\netstandard2.0\PelisItic92Yen.pdb
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.csproj.CoreCompileInputs.cache
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.dll
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\ref\PelisItic92Yen.dll
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\PelisItic92Yen.pdb
+C:\Users\yenyg\source\repos\PelisItic92Yen\PelisItic92Yen\PelisItic92Yen\obj\Debug\netstandard2.0\AddPelicula.xaml.g.cs
